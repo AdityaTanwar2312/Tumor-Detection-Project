@@ -1,0 +1,10 @@
+project
+artifacts
+logs
+config
+mlruns
+setup.py
+config.yaml
+scores.json
+params.yaml
+__pycache__
