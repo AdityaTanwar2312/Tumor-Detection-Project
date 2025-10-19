@@ -1,7 +1,6 @@
 project
 artifacts
 logs
-config
 mlruns
 setup.py
 config.yaml
